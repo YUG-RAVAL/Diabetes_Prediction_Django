@@ -2,5 +2,8 @@
 
 - This Dashboard predicts chances of diabetes using classification algorithms and it is built on Django Framework
 - I have used sklearn for classification algorithm and for data storage SQLite is used.
-- diabetes.csv file is used for training and testing data
-- 
+- diabetes.csv file is used for training and testing data which is included in statics
+
+**Improvements and Suggestions are always welcome**
+
+ 
